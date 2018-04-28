@@ -1,0 +1,3 @@
+InstallUtil WindowsService1.exe
+net start WindowsService1
+stop

@@ -1,0 +1,16 @@
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\WindowsService1\obj\Debug\WindowsService1.pdb
+F:\shuyunquan\Study\ConsoleApplication1\WindowsService1\bin\Debug\WindowsService1.exe.config
+F:\shuyunquan\Study\ConsoleApplication1\WindowsService1\bin\Debug\WindowsService1.exe
+F:\shuyunquan\Study\ConsoleApplication1\WindowsService1\bin\Debug\WindowsService1.pdb
+F:\shuyunquan\Study\ConsoleApplication1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+F:\shuyunquan\Study\ConsoleApplication1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+F:\shuyunquan\Study\ConsoleApplication1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+F:\shuyunquan\Study\ConsoleApplication1\WindowsService1\obj\Debug\WindowsService1.exe
+F:\shuyunquan\Study\ConsoleApplication1\WindowsService1\obj\Debug\WindowsService1.pdb
+F:\shuyunquan\Study\ConsoleApplication1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache

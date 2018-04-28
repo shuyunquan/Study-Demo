@@ -1,0 +1,14 @@
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\bin\Debug\测试控制台.exe.config
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\bin\Debug\测试控制台.exe
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\bin\Debug\测试控制台.pdb
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\bin\Debug\NPOI.dll
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\bin\Debug\NPOI.OOXML.dll
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\bin\Debug\NPOI.OpenXml4Net.dll
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\bin\Debug\NPOI.xml
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\obj\Debug\测试控制台.csproj.CoreCompileInputs.cache
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\obj\Debug\测试控制台.csproj.CopyComplete
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\obj\Debug\测试控制台.exe
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\obj\Debug\测试控制台.pdb
+F:\shuyunquan\Study\ConsoleApplication1\测试控制台\obj\Debug\测试控制台.csprojResolveAssemblyReference.cache

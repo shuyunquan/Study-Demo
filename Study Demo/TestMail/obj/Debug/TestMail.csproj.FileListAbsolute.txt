@@ -1,0 +1,11 @@
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\TestMail\bin\Debug\TestMail.exe.config
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\TestMail\bin\Debug\TestMail.exe
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\TestMail\bin\Debug\TestMail.pdb
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\TestMail\obj\Debug\TestMail.exe
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\TestMail\obj\Debug\TestMail.pdb
+F:\shuyunquan\Study\ConsoleApplication1\TestMail\bin\Debug\TestMail.exe.config
+F:\shuyunquan\Study\ConsoleApplication1\TestMail\bin\Debug\TestMail.exe
+F:\shuyunquan\Study\ConsoleApplication1\TestMail\bin\Debug\TestMail.pdb
+F:\shuyunquan\Study\ConsoleApplication1\TestMail\obj\Debug\TestMail.exe
+F:\shuyunquan\Study\ConsoleApplication1\TestMail\obj\Debug\TestMail.pdb
+F:\shuyunquan\Study\ConsoleApplication1\TestMail\obj\Debug\TestMail.csproj.CoreCompileInputs.cache

@@ -1,0 +1,26 @@
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\bin\Debug\Entity Frmawork.exe.config
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\bin\Debug\Entity Frmawork.exe
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\bin\Debug\Entity Frmawork.pdb
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\bin\Debug\EntityFramework.dll
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\bin\Debug\EntityFramework.xml
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\obj\Debug\Entity Frmawork.csprojResolveAssemblyReference.cache
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\obj\Debug\Entity Frmawork.exe
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\obj\Debug\Entity Frmawork.pdb
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\蜀云泉\Desktop\学习\ConsoleApplication1\Entity Frmawork\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\bin\Debug\Entity Frmawork.exe.config
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\obj\Debug\Entity Frmawork.exe
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\obj\Debug\Entity Frmawork.pdb
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\bin\Debug\Entity Frmawork.exe
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\bin\Debug\Entity Frmawork.pdb
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\bin\Debug\EntityFramework.dll
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\bin\Debug\EntityFramework.SqlServer.dll
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\bin\Debug\EntityFramework.xml
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\bin\Debug\EntityFramework.SqlServer.xml
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\obj\Debug\Entity Frmawork.csprojResolveAssemblyReference.cache
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\obj\Debug\Entity Frmawork.csproj.CoreCompileInputs.cache
+F:\shuyunquan\Study\ConsoleApplication1\Entity Frmawork\obj\Debug\Entity Frmawork.csproj.CopyComplete

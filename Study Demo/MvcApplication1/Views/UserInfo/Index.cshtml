@@ -1,0 +1,35 @@
+﻿@model IQueryable<MvcApplication1.UserInfo>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <h2>蜀云泉</h2>
+    @Html.ActionLink("添加","Add","UserInfo");
+    <hr />
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>姓名</th>
+        </tr>
+        @foreach (var item in @ViewBag.list)
+        {
+            <tr>
+                <th>@item.userID</th>
+                <th>@item.userName</th>
+            </tr>
+        }
+    </table>
+
+    @{
+        <p>@ViewBag.t</p>
+    }
+</body>
+</html>

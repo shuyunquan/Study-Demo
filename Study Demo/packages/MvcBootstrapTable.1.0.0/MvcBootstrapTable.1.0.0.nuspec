@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>MvcBootstrapTable</id>
+    <version>1.0.0</version>
+    <title>MVC Bootstrap Table</title>
+    <authors>Robert Lindblom</authors>
+    <owners>Robert Lindblom</owners>
+    <projectUrl>http://mvcbootstraptable.azurewebsites.net/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MVC Bootstrap table is an ASP.NET MVC Core component for easily creating Bootstrap tables.</description>
+    <summary />
+  </metadata>
+</package>
