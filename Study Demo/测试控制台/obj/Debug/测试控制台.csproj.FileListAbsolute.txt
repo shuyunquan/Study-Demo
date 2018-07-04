@@ -12,3 +12,17 @@ F:\shuyunquan\Study\ConsoleApplication1\测试控制台\obj\Debug\测试控制�
 F:\shuyunquan\Study\ConsoleApplication1\测试控制台\obj\Debug\测试控制台.exe
 F:\shuyunquan\Study\ConsoleApplication1\测试控制台\obj\Debug\测试控制台.pdb
 F:\shuyunquan\Study\ConsoleApplication1\测试控制台\obj\Debug\测试控制台.csprojResolveAssemblyReference.cache
+F:\git\Study\Study Demo\测试控制台\bin\Debug\测试控制台.exe.config
+F:\git\Study\Study Demo\测试控制台\bin\Debug\测试控制台.exe
+F:\git\Study\Study Demo\测试控制台\bin\Debug\测试控制台.pdb
+F:\git\Study\Study Demo\测试控制台\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\git\Study\Study Demo\测试控制台\bin\Debug\NPOI.dll
+F:\git\Study\Study Demo\测试控制台\bin\Debug\NPOI.OOXML.dll
+F:\git\Study\Study Demo\测试控制台\bin\Debug\NPOI.OpenXml4Net.dll
+F:\git\Study\Study Demo\测试控制台\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\git\Study\Study Demo\测试控制台\bin\Debug\NPOI.xml
+F:\git\Study\Study Demo\测试控制台\obj\Debug\测试控制台.csprojResolveAssemblyReference.cache
+F:\git\Study\Study Demo\测试控制台\obj\Debug\测试控制台.csproj.CoreCompileInputs.cache
+F:\git\Study\Study Demo\测试控制台\obj\Debug\测试控制台.csproj.CopyComplete
+F:\git\Study\Study Demo\测试控制台\obj\Debug\测试控制台.exe
+F:\git\Study\Study Demo\测试控制台\obj\Debug\测试控制台.pdb

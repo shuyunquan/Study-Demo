@@ -22,19 +22,26 @@
 
 <div class="panel-body" style="padding-bottom:0px;">
 
+
+    <select name="biaoqian" id="biaoqian" style="width:200px;" class="form-control"></select>
+
+
     <div id="toolbar" class="btn-group">
         <button id="btn" type="button" class="btn btn-default">
             <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>选课
-            </button>
+        </button>
 
     </div>
+
+
     <table id="table"></table>
 </div>
 
 
 
-@*<button id="btn" type="button" class="btn">选课</button>
-<table id="table"></table>*@
+
+
+
 
 
 
@@ -44,6 +51,11 @@
 <script>
 
     $(function () {
+
+        $('#biaoqian').append("<option value='1'>vr</option>");
+        $('#biaoqian').append("<option value='2'>测试</option>");
+        $('#biaoqian').append("<option value='3'>洗洗</option>");
+  
         //1.初始化Table
         //var oTable = new TableInit();
         //oTable.Init();

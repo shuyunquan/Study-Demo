@@ -32,6 +32,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C26C44
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "测试控制台", "测试控制台\测试控制台.csproj", "{CD4E3E27-BC5F-4F4D-827C-37E151B3507E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTable转List", "DataTable转List\DataTable转List.csproj", "{C12938B5-509A-472F-A55C-D89ABF2F815C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{AA093273-239B-4598-9920-3BADDD5F8C27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +90,14 @@ Global
 		{CD4E3E27-BC5F-4F4D-827C-37E151B3507E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD4E3E27-BC5F-4F4D-827C-37E151B3507E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD4E3E27-BC5F-4F4D-827C-37E151B3507E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C12938B5-509A-472F-A55C-D89ABF2F815C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12938B5-509A-472F-A55C-D89ABF2F815C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12938B5-509A-472F-A55C-D89ABF2F815C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12938B5-509A-472F-A55C-D89ABF2F815C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA093273-239B-4598-9920-3BADDD5F8C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA093273-239B-4598-9920-3BADDD5F8C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA093273-239B-4598-9920-3BADDD5F8C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA093273-239B-4598-9920-3BADDD5F8C27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

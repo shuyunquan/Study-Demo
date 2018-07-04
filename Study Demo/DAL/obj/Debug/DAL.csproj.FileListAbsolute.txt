@@ -1,0 +1,6 @@
+F:\git\Study\Study Demo\DAL\bin\Debug\DAL.dll
+F:\git\Study\Study Demo\DAL\bin\Debug\DAL.pdb
+F:\git\Study\Study Demo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\git\Study\Study Demo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\git\Study\Study Demo\DAL\obj\Debug\DAL.dll
+F:\git\Study\Study Demo\DAL\obj\Debug\DAL.pdb
