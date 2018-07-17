@@ -11,7 +11,9 @@ namespace DAL
 {
     public class SqlHelper
     {
-        string connstr = ConfigurationManager.ConnectionStrings["CONNECTIONS"].ConnectionString;
+
+        string connstr = "Server=.;Database=PMIS5;Uid=sa;Pwd=123";
+        //ConfigurationManager.ConnectionStrings["CONNECTIONS"].ConnectionString;
 
         //返回Table
         public DataTable SqlConnectionInformation(string sql)
