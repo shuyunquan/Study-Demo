@@ -16,7 +16,7 @@ namespace TestMail
         {
             #region MyRegion
             System.Net.Mail.MailMessage msg = new System.Net.Mail.MailMessage();
-            msg.To.Add(new MailAddress("jikiuj@163.com"));
+            msg.To.Add(new MailAddress("vae@163.com"));
 
             msg.From = new MailAddress("shuyunquan@qq.com");
             msg.Subject = "测试";//邮件标题    
